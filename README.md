@@ -6,7 +6,7 @@ Serenity strongly encourages good test automation design, and supports several d
 
 The latest version of Serenity supports Cucumber 5.5.
 
-# lease plan Test Project
+# Lease plan Test Project
 
 This is a test automation project with API tests for Waarkoop API service
 
