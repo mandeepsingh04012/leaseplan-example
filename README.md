@@ -38,13 +38,13 @@ For building this project it is necessary to install the following:
 ## Set up and running tests
 
 ```
-   $ https://gitlab.com/yu.dyagilev/waarkooptestproject.git
+   $ https://gitlab.com/mandeepsingh040121/leaseplan-example.git
    $ mvn clean verify
 ```
 Also test run can be customized to use specific tests, for example
 
 ```
-   $ mvn clean verify "-Dcucumber.options= --tags @smokes-tests"
+   $ mvn clean verify "-Dcucumber.options= --tags @smokestest"
 ```
 For locally running tests, use "APITestRunner.java" class to run all tests immediately
 
